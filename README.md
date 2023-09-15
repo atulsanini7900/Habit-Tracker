@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## Demo Link
+## Hosted Link
 Link:- https://habit-tracker-46522.web.app/
 
 ## Available Scripts
